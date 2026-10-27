@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-B0fFmPBj.js";import{T as t,d as n,et as r}from"./vue-vendor-DOrPtzV8.js";function i(e){return o.value=e,()=>{o.value===e&&(o.value=null)}}async function a(e){o.value?await o.value():await e()}var o,s,c=e((()=>{n(),o=r(null),s=t(()=>o.value!==null)}));export{a as i,c as n,i as r,s as t};
